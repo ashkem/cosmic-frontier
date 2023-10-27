@@ -11,7 +11,7 @@ En Cosmic Frontier, el jugador asume el control de una nave espacial que debe so
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/ashkem/cosmic-frontier.git
    ```
 
 **CARACTERISTICAS:**
