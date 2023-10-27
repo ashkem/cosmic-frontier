@@ -29,7 +29,7 @@ En Cosmic Frontier, el jugador asume el control de una nave espacial que debe so
 ## Ejecuta el juego
 
    ```sh
-      python main.py
+      python app.py
    ```
 
 ## Extructura de directorios
