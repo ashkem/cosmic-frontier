@@ -1,10 +1,10 @@
 # Cosmic Frontier
 
-Este proyecto es un juego simple implementado en Python utilizando la biblioteca Pygame. Se trata de un juego espacial en el que el jugador controla una nave espacial y dispara para destruir meteoros, al mismo tiempo que evita colisiones y mantiene su nivel de escudo.
+Este proyecto es un juego open sources implementado en Python utilizando la biblioteca Pygame. En Cosmic Frontier, el jugador controla una nave espacial, dispara para destruir meteoros y evita colisiones para mantener su nivel de escudo.
 
 ## Descripción
 
-En Cosmic Frontier, el jugador asume el control de una nave espacial que debe sobrevivir a una lluvia de meteoros. El jugador puede disparar misiles para destruir los meteoros, pero debe tener cuidado de no colisionar con ellos. El jugador también debe mantener su nivel de escudo, ya que si se agota, el juego terminará.
+Cosmic Frontier desafía a los jugadores a sobrevivir a una lluvia de meteoros. La nave puede disparar misiles para destruir los meteoros, pero colisionar con ellos disminuirá su nivel de escudo. Cuando el escudo se agota, el juego termina.
 
 ## Instalación
 
@@ -14,7 +14,13 @@ En Cosmic Frontier, el jugador asume el control de una nave espacial que debe so
    git clone https://github.com/ashkem/cosmic-frontier.git
    ```
 
-**CARACTERISTICAS:**
+2. Ejecutar el juego
+
+   ```sh
+      python app.py
+   ```
+
+## Caracteristicas
 
 - **Interfaz de inicio atractiva:** El juego presenta una interfaz de inicio atractiva con un fondo visualmente agradable y botones para iniciar el juego o salir del mismo.
 
@@ -26,11 +32,27 @@ En Cosmic Frontier, el jugador asume el control de una nave espacial que debe so
 
 - **Gestión de la vida del jugador:** Se ha implementado un sistema de escudo para el jugador que disminuye cuando el jugador choca con un meteoro. Si el escudo alcanza cero, se activa una pantalla de juego terminado. Este sistema agrega un elemento de desafío al juego y requiere que los jugadores eviten los obstáculos para mantenerse en el juego.
 
-## Ejecuta el juego
+## Controles
 
-   ```sh
-      python app.py
-   ```
+### Movimiento de la Nave
+
+- Utiliza las teclas de dirección para mover la nave espacial:
+  - ↑ (tecla de flecha arriba): Mover hacia arriba.
+  - ↓ (tecla de flecha abajo): Mover hacia abajo.
+  - ← (tecla de flecha izquierda): Mover hacia la izquierda.
+  - → (tecla de flecha derecha): Mover hacia la derecha.
+
+### Disparar
+
+- Para disparar y destruir los meteoritos, utiliza la tecla de espacio (`␣`).
+
+## Objetivo del Juego
+
+Tu objetivo es sobrevivir el mayor tiempo posible en el espacio, destruyendo los meteoritos que se cruzan en tu camino. A medida que progresas, los meteoritos serán de diferentes tamaños y velocidades, lo que aumentará la dificultad del juego.
+
+## Puntuación
+
+Cada meteorito destruido suma puntos. ¡Intenta obtener la puntuación más alta y supera tus récords anteriores!
 
 ## Extructura de directorios
 
@@ -63,7 +85,7 @@ En Cosmic Frontier, el jugador asume el control de una nave espacial que debe so
 
 ## Agradecimientos
 
-Agradezco a mi esposa **Roux Tabata** y todos los que han probar  **Cosmic Frontier**.
+Agradezco a mi esposa **Roux Tabata**, que es el pilar de mi vida y ser el motor que me impulsa a superarme y enfrentar nuevos desafíos, gracias esposita linda por ser la fuente de inspiración para mi código y por último le agradezco a todos los que prueben **Cosmic Frontier**.
 
 ## Datos de contacto
 
