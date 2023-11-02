@@ -1,10 +1,10 @@
 # Cosmic Frontier
 
-Este proyecto es un juego open sources implementado en Python utilizando la biblioteca Pygame. En Cosmic Frontier, el jugador controla una nave espacial, dispara para destruir meteoros y evita colisiones para mantener su nivel de escudo.
+Este proyecto es un juego open sources implementado en Python utilizando la biblioteca Pygame. En Cosmic Frontier, el jugador controla una nave espacial, dispara para destruir meteoritos y evita colisiones para mantener su nivel de escudo.
 
 ## Descripción
 
-Cosmic Frontier desafía a los jugadores a sobrevivir a una lluvia de meteoros. La nave puede disparar misiles para destruir los meteoros, pero colisionar con ellos disminuirá su nivel de escudo. Cuando el escudo se agota, el juego termina.
+Cosmic Frontier desafía a los jugadores a sobrevivir a una lluvia de meteoritos. La nave puede disparar misiles para destruir los meteoritos, pero colisionar con ellos disminuirá su nivel de escudo. Cuando el escudo se agota, el juego termina.
 
 ## Instalación
 
@@ -24,13 +24,13 @@ Cosmic Frontier desafía a los jugadores a sobrevivir a una lluvia de meteoros. 
 
 - **Interfaz de inicio atractiva:** El juego presenta una interfaz de inicio atractiva con un fondo visualmente agradable y botones para iniciar el juego o salir del mismo.
 
-- **Mecánica de juego básica:** El juego parece ser un juego de disparos de desplazamiento lateral en el que el jugador controla un personaje que dispara a los meteoros que se desplazan desde la parte superior de la pantalla.
+- **Mecánica de juego básica:** El juego parece ser un juego de disparos de desplazamiento lateral en el que el jugador controla un personaje que dispara a los meteoritos que se desplazan desde la parte superior de la pantalla.
 
 - **Elementos de sonido y música:** Se han incorporado efectos de sonido, como el sonido del láser y de la explosión, para mejorar la experiencia del juego. Además, se ha incluido música de fondo para aumentar la inmersión del jugador.
 
-- **Sistema de puntuación:** El juego incluye un sistema de puntuación que aumenta cada vez que el jugador destruye un meteoro. Este sistema de puntuación podría estar relacionado con el progreso del jugador y su desempeño en el juego.
+- **Sistema de puntuación:** El juego incluye un sistema de puntuación que aumenta cada vez que el jugador destruye un meteorito. Este sistema de puntuación podría estar relacionado con el progreso del jugador y su desempeño en el juego.
 
-- **Gestión de la vida del jugador:** Se ha implementado un sistema de escudo para el jugador que disminuye cuando el jugador choca con un meteoro. Si el escudo alcanza cero, se activa una pantalla de juego terminado. Este sistema agrega un elemento de desafío al juego y requiere que los jugadores eviten los obstáculos para mantenerse en el juego.
+- **Gestión de la vida del jugador:** Se ha implementado un sistema de escudo para el jugador que disminuye cuando el jugador choca con un meteorito. Si el escudo alcanza cero, se activa una pantalla de juego terminado. Este sistema agrega un elemento de desafío al juego y requiere que los jugadores eviten los obstáculos para mantenerse en el juego.
 
 ## Controles
 
@@ -85,7 +85,7 @@ Cada meteorito destruido suma puntos. ¡Intenta obtener la puntuación más alta
 
 ## Agradecimientos
 
-Agradezco a mi esposa **Roux Tabata**, que es el pilar de mi vida y ser el motor que me impulsa a superarme y enfrentar nuevos desafíos, gracias esposita linda por ser la fuente de inspiración para mi código y por último le agradezco a todos los que prueben **Cosmic Frontier**.
+Agradezco a mi esposa **Roux Tabata**, que es el pilar de mi vida y ser el motor que me impulsa a superarme y enfrentar nuevos desafíos, gracias esposita linda por ser la fuente de inspiración para mi código y por último le agradezco a todos los que le brinden un pequeño tiempo en probar y compartir **Cosmic Frontier**, el cual es un juego hecho con amor.
 
 ## Datos de contacto
 
